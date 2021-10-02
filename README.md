@@ -1,5 +1,7 @@
+Title: Password Generator
+
 Description:
-We were tasked with creating a responsive password generator that displayed a series of window prompts that allowed the user to customize the output.
+This is a responsive password generator that displays a series of window prompts that ask the user what parameters they want in their password such as length, character type, etc.
 
 Screenshot: 
 ![Website Screenshot](password-generator-ss.png)
